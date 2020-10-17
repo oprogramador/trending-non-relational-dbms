@@ -1,4 +1,4 @@
-| Rank by difference | DBMS                          | Model                        | October 2020 | Difference between October 2020 and October 2019 | October 2019 | Quotient between October 2020 and October 2019 |
+| Rank by quotient | DBMS                          | Model                        | October 2020 | Difference between October 2020 and October 2019 | October 2019 | Quotient between October 2020 and October 2019 |
 |--------------------|-------------------------------|------------------------------|--------------|--------------------------------------------------|--------------|------------------------------------------------|
 | 1                  | TerminusDB                    | Graph, Multi-model           | 0.13         | 0.11                                             | 0.02         | 6.5000                                         |
 | 2                  | DolphinDB                     | Time Series                  | 0.7          | 0.55                                             | 0.15         | 4.6667                                         |
