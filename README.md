@@ -2,6 +2,8 @@
 
 Data from https://db-engines.com/en/ranking
 
+In this file, you can see a rank by score difference while [in that file](by-quotient.md), you can see a rank by score quotient.
+
 | Rank by difference | DBMS                          | Model                        | October 2020 | Difference between October 2020 and October 2019 |
 |--------------------|-------------------------------|------------------------------|--------------|--------------------------------------------------|
 | 1                  | MongoDB                       | Document, Multi-model        | 448.02       | 35.93                                            |
