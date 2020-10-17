@@ -2,7 +2,7 @@
 
 Data from https://db-engines.com/en/ranking
 
-| Rank by difference | DBMS                          | Model                        | October 2020 | Difference between October 2019 and October 2020 |
+| Rank by difference | DBMS                          | Model                        | October 2020 | Difference between October 2020 and October 2019 |
 |--------------------|-------------------------------|------------------------------|--------------|--------------------------------------------------|
 | 1                  | MongoDB                       | Document, Multi-model        | 448.02       | 35.93                                            |
 | 2                  | Redis                         | Key-value, Multi-model       | 153.28       | 10.37                                            |
